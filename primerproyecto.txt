@@ -1,1 +1,2 @@
 Esta es la prueba
+Segunda línea de prueba: probando el flujo diario de Git y GitHub.
